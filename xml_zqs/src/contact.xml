@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contactList>
+  <contact id="001" name="wawa">
+     <name>詹桥松</name>
+	 <age>24</age>
+	 <phone>15005183668</phone>
+	 <email>874431856@qq.com</email>
+	 <qq>874431856</qq>
+  </contact>
+  <contact id="002" name="hehe">
+     <name>zhanbin</name>
+	 <age>23</age>
+	 <phone>18356066348</phone>
+	 <email>1017921698@qq.com</email>
+	 <qq>1017921698</qq>
+  </contact>
+</contactList> 
